@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "P1Gf3xmbfQhFASs0WAvS6BfgK0SJfTdhkxo2VP97JowRpYDEPGbNA0qLJPswYSeOYvzt0s4nfSSysGm2PAiMfQ==",
+  "success": true,
+  "projectFilePath": "C:\\MyPrograms\\Programirane\\Calculator\\Gitexercise\\GitExercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Stivi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Stivi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Stivi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Stivi\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
